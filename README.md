@@ -1,6 +1,6 @@
 # Hellooo, I'm Morvir or Prince in real-life👋
 
-🎓 Third-year Computer Science student specializing in Artificial Intelligence.
+ Third-year Computer Science student specializing in Artificial Intelligence.
 
 ## Currently Learning
 
