@@ -1,4 +1,4 @@
-# Hellooo, I'm Morvir or Prince in real-life👋
+# Hellooo, I'm Alevrio or Prince in real-life👋
 
  Third-year Computer Science student specializing in Artificial Intelligence.
 
