@@ -11,9 +11,7 @@
 - Computer Vision
 
 ## Current Goals
-
-- Build one AI project every month
-- Learn MLOps fundamentals
+- Finish my current project
 - Contribute to open source
 
 ## Tech Stack
